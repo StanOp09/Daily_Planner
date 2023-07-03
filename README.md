@@ -25,7 +25,7 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 ## Appearance and Functionality
-
+![Workday Schedule full screen picture](image.png)
 ## Credits
 Sean Roshan
 
